@@ -1,2 +1,2 @@
 ﻿# Plog-App-API
- # https://plog-app.vercel.app/
+ # Live: https://plog-app.vercel.app/
